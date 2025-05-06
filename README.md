@@ -9,8 +9,8 @@ A simple, customizable, floating stopwatch application with a touch of cuteness 
 *   **Frameless & Draggable:** Clean look, click and drag anywhere on the window (except controls) to move.
 *   **Resizable:** Resize from the edges and corners.
 *   **Custom Background:**
-    *   Click the '🖼️' button to show background controls.
-    *   Double-click the '🖼️' button to select a custom background image (*.png, *.jpg, *.jpeg, *.bmp).
+    *   Click the '+' button to show background controls.
+    *   Double-click the '🖼' button to select a custom background image (*.png, *.jpg, *.jpeg, *.bmp).
     *   Adjust the transparency of the custom image or the default background using the slider.
     *   Click "Change" to select a different image.
     *   Click "Reset" to go back to the default background.
