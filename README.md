@@ -19,11 +19,8 @@ A simple, customizable, floating stopwatch application with a touch of cuteness 
 *   **Minimal Interface:** Clean UI that gets out of your way.
 
 ## Screenshots
-
-*(Add a screenshot here!)*
-
 ```
-[Screenshot Placeholder]
+![Video](stop.mp4) 
 ```
 
 ## Running the Application
