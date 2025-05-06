@@ -20,8 +20,7 @@ A simple, customizable, floating stopwatch application with a touch of cuteness 
 
 ## Screenshots
 
-![Video](stop.mp4) 
-
+![Video](stop.gif)
 ## Running the Application
 
 1.  **Prerequisites:**
